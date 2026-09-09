@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94e03828-affd-4fc0-a444-5cccda2311ad" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3IkE0Oucz4lV1DC90s8ob0iWhO1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.CalculadoraFreteTest.executor": "Run",
+    "JUnit.CalculadoraFreteTeste.executor": "Run",
+    "JUnit.ContaDigitalTest.contaRecemCriadaDeveTerSaldoZero.executor": "Run",
+    "JUnit.ContaDigitalTest.depositarDeveAumentarSaldo.executor": "Run",
+    "JUnit.ContaDigitalTest.depositoNegativoDeveLancarExcecao.executor": "Run",
+    "JUnit.ContaDigitalTest.depositoZeroDeveLancarExcecaoESaldoNaoDeveMudar.executor": "Run",
+    "JUnit.ContaDigitalTest.executor": "Run",
+    "JUnit.ContaDigitalTest.sacarDeveReduzirSaldo.executor": "Run",
+    "JUnit.ContaDigitalTest.saqueMaiorQueSaldoDeveLancarExcecaoESaldoNaoDeveMudar.executor": "Run",
+    "JUnit.ContaDigitalTest.saqueNegativoDeveLancarExcecao.executor": "Run",
+    "JUnit.ContaDigitalTest.saqueNegativoLancaExcecao.executor": "Run",
+    "JUnit.ContaDigitalTest.saqueZeroDeveLancarExcecao.executor": "Run",
+    "JUnit.DescontoTest.calcularDeveAplicarPercentual.executor": "Run",
+    "JUnit.DescontoTest.calcularDeveTerminarMuitoRapido.executor": "Run",
+    "JUnit.DescontoTest.calcularDeveTerminarRapidamente.executor": "Run",
+    "JUnit.DescontoTest.executor": "Run",
+    "JUnit.DescontoTest.percentualForaDoIntervaloDeveFalhar.executor": "Run",
+    "JUnit.DescontoTest.precoNegativoDeveLancarExcecao.executor": "Run",
+    "JUnit.LampadaTest.desligarDeveRestaurarAoEstadoInicial.executor": "Run",
+    "JUnit.LampadaTest.executor": "Run",
+    "JUnit.LampadaTest.lampadaRecemLigadaDeveEstarDesligadaComItensidadeZero.executor": "Run",
+    "JUnit.LampadaTest.ligarDeveAlterarOEstadoEAIntensidade.executor": "Run",
+    "JUnit.ProdutoTest.executor": "Run",
+    "JUnit.ReservaHotelTest.calcularTotalDeveMultiplicarDiariasPeloValor.executor": "Run",
+    "JUnit.ReservaHotelTest.codigoEmBrancoDeveLancarExcecao.executor": "Run",
+    "JUnit.ReservaHotelTest.codigoNuloDeveLancarExcecao.executor": "Run",
+    "JUnit.ReservaHotelTest.confirmarDeveAlterarEstadoEArmazenarCodigo.executor": "Run",
+    "JUnit.ReservaHotelTest.confirmarDuasVezesDeveLancarExcecao.executor": "Run",
+    "JUnit.ReservaHotelTest.executor": "Run",
+    "JUnit.ReservaHotelTest.hospedeEmBrancoDeveLancarExcecao.executor": "Run",
+    "JUnit.ReservaHotelTest.hospedeNuloDeveLancarExcecao.executor": "Run",
+    "JUnit.ReservaHotelTest.quantidadeNegativaDeveLancarExcecao.executor": "Run",
+    "JUnit.ReservaHotelTest.quantidadeZeroDeveLancarExcecao.executor": "Run",
+    "JUnit.ReservaHotelTest.reservaRecemCriadaDeveTerDadosEEstadoInicialCorretos.executor": "Run",
+    "JUnit.ReservaHotelTest.valorNegativoDeveLancarExcecao.executor": "Run",
+    "JUnit.ReservaHotelTest.valorZeroDeveLancarExcecao.executor": "Run",
+    "JUnit.UsuarioTest.desativarDeveAlterarEstadoParaInativo.executor": "Run",
+    "JUnit.UsuarioTest.telefoneEmBrancoVaiLancarExcessao.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "last_opened_file_path": "C:/Users/matheus_bagattoli/Downloads/teste_25_08/teste_aula_18_08-master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.CalculadoraFreteTest">
+    <configuration name="CalculadoraFreteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Aula_03" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculadoraFreteTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReservaHotelTest.codigoEmBrancoDeveLancarExcecao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Aula_03" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ReservaHotelTest" />
+      <option name="METHOD_NAME" value="codigoEmBrancoDeveLancarExcecao" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReservaHotelTest.codigoNuloDeveLancarExcecao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Aula_03" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ReservaHotelTest" />
+      <option name="METHOD_NAME" value="codigoNuloDeveLancarExcecao" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReservaHotelTest.confirmarDuasVezesDeveLancarExcecao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Aula_03" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ReservaHotelTest" />
+      <option name="METHOD_NAME" value="confirmarDuasVezesDeveLancarExcecao" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReservaHotelTest.valorNegativoDeveLancarExcecao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Aula_03" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ReservaHotelTest" />
+      <option name="METHOD_NAME" value="valorNegativoDeveLancarExcecao" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculadoraFreteTest" />
+        <item itemvalue="JUnit.ReservaHotelTest.confirmarDuasVezesDeveLancarExcecao" />
+        <item itemvalue="JUnit.ReservaHotelTest.codigoEmBrancoDeveLancarExcecao" />
+        <item itemvalue="JUnit.ReservaHotelTest.codigoNuloDeveLancarExcecao" />
+        <item itemvalue="JUnit.ReservaHotelTest.valorNegativoDeveLancarExcecao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94e03828-affd-4fc0-a444-5cccda2311ad" name="Changes" comment="" />
+      <created>1788299942760</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788299942760</updated>
+    </task>
+    <servers />
+  </component>
+</project>

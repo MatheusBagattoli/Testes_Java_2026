@@ -2,7 +2,7 @@
 
 **Módulo:** 1 — Fundamentos
 **Carga horária:** 4 horas
-**Professor(a):** [Nome/@handle da turma]
+**Professor(a):** @karizeviecelli
 
 ---
 

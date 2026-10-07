@@ -1,7 +1,9 @@
 # Aula 02 — Ambiente de Desenvolvimento e o arquivo pom.xml
 
 **Módulo:** 1 — Fundamentos
+
 **Carga horária:** 4 horas
+
 **Professor(a):** @karizeviecelli
 
 ---
